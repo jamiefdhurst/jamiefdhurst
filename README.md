@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jamiefdhurst/jamiefdhurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jamie, a **software and system engineer** hailing from the **north-east of England**
 
-Here are some ideas to get you started:
+#### 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at [Tesco Bank](https://www.tescobank.com)
+- ⚙️ Every day I use: **Java**, **Jenkins**, **AWS**, **Kubernetes**, **Terraform**, **Python**, **Bash** and **Go**
+- 🌱 Learning all about new AWS technologies and offerings
+- 🖊 I [blog](https://jamiehurst.co.uk) about what I'm trying out
+- 📫 Find me on [Twitter](https://twiiter.com/jamiefdhurst)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiefdhurst&layout=compact&theme=dark)](https://github.com/jamiefdhurst)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamiefdhurst&theme=dark&show_icons=true)](https://github.com/jamiefdhurst)
