@@ -2,10 +2,10 @@
 
 I'm Jamie, a **software and system engineer** hailing from the **north-east of England**
 
-#### 2022
+#### 2023
 
-- 🏢 I'm currently working at [Tesco Bank](https://www.tescobank.com)
-- ⚙️ Every day I use: **Java**, **Jenkins**, **AWS**, **Kubernetes**, **Terraform**, **Python**, **Bash** and **Go**
+- 🏢 I'm currently working at [Booking.com](https://www.booking.com) working on their Developer Experience
+- ⚙️ Every day I use: **Java**, **AWS**, **Kubernetes**, **Terraform**, **Python**, **Bash**, **NodeJS** and **Go**
 - 🌱 Learning all about new AWS technologies and offerings
 - 🖊 I [blog](https://jamiehurst.co.uk) about what I'm trying out
 - 📫 Find me on [Mastodon](https://mastodon.social/@jamiefdhurst)
