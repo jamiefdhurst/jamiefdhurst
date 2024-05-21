@@ -1,15 +1,25 @@
-### Hi there 👋
+## Hi there 👋 I'm Jamie
 
-I'm Jamie, a **software and system engineer** hailing from the **north-east of England**
+I'm a **software and system engineer** hailing from the **north-east of England**, in the **UK**. I currently work at Booking.com as a principal software engineer in Developer Experience, where I help our engineers build products better, quicker and safer. In the past I've worked at Tesco Bank and N-able, and ran my own system/software consultancy back in the day called HurstDEV.
 
-#### 2023
+You can find me here:
 
-- 🏢 I'm a principal engineer in Developer Experience at [Booking.com](https://www.booking.com)
-- ⚙️ Every day I use: **Java**, **AWS**, **Kubernetes**, **Terraform**, **Python**, **Bash**, **NodeJS** and **Go**
-- 🌱 Learning all about new AWS technologies and offerings
-- 🖊 I [blog](https://jamiehurst.co.uk) about what I'm trying out
-- 📫 Find me on [Mastodon](https://mastodon.social/@jamiefdhurst)
+[![LinkedIn](https://img.shields.io/badge/jamiefdhurst-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiefdhurst/)
+[![Mastodon](https://img.shields.io/badge/jamiefdhurst%40howdee.social-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://howdee.social/@jamiefdhurst)
+[![Email](https://img.shields.io/badge/jamie%40jamiehurst.co.uk-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:jamie@jamiehurst.co.uk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiefdhurst&layout=compact&theme=dark)](https://github.com/jamiefdhurst)
+### Tools
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamiefdhurst&theme=dark&show_icons=true)](https://github.com/jamiefdhurst)
+Right now, I'm using these tools:
+
+- Java
+- Go
+- AWS
+- Kubernetes
+- Terraform
+- Node.js
+- React
+
+| GitHub Stats | Languages |
+| :----------: | :-------: |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamiefdhurst&theme=dark&show_icons=true)](https://github.com/jamiefdhurst) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiefdhurst&layout=donut&theme=dark)](https://github.com/jamiefdhurst) |
