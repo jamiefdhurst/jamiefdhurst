@@ -4,6 +4,7 @@ I'm a **software and system engineer** hailing from the **north-east of England*
 
 You can find me here:
 
+[![Blog](https://img.shields.io/badge/jamiehurst.co.uk-white?style=flat-square&logo=firefox)](https://jamiehurst.co.uk)
 [![LinkedIn](https://img.shields.io/badge/jamiefdhurst-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiefdhurst/)
 [![Mastodon](https://img.shields.io/badge/jamiefdhurst%40howdee.social-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://howdee.social/@jamiefdhurst)
 [![Email](https://img.shields.io/badge/jamie%40jamiehurst.co.uk-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:jamie@jamiehurst.co.uk)
