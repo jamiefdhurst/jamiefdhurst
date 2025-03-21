@@ -15,12 +15,14 @@ Right now, I'm using these tools:
 
 - Java
 - Go
+- TypeScript/Node.js
+- Python
+- PHP
 - AWS
 - Kubernetes
 - Terraform
-- Node.js
 - React
 
-| GitHub Stats | Languages |
-| :----------: | :-------: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamiefdhurst&theme=dark&show_icons=true)](https://github.com/jamiefdhurst) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiefdhurst&layout=donut&theme=dark)](https://github.com/jamiefdhurst) |
+| GitHub Stats |
+| :----------: |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamiefdhurst&theme=dark&show_icons=true)](https://github.com/jamiefdhurst) |
